@@ -1,0 +1,29 @@
+.navbar-brand { 
+    max-height: 50px;
+    max-width: 30%; 
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 10px; 
+}
+.navbar-brand span {
+    font-family: 'Courgette', cursive !important;
+}
+
+.section2 {
+    height: 200px;
+    padding-top : 10px;
+}
+
+.container {
+    display: flex;
+}
+
+.container.space-around {
+    justify-content: space-around;
+}
+
+.recepiTable {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
